@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- 1. Sahifa sarlavhasi siz yuborgan rasmdagidek o'zgartirildi -->
+    <title>Mexmash LLC Boshqaruv</title>
+    <link rel="icon" href="https://marketing.uz/tafest-konkurs-2022/uz/uploads/works/covers/e6c4c8d523eb0669c9f6edf2631666cc.jpg" type="image">
+
+
+    <!-- Qolgan ulanishlar o'zgarishsiz qoladi -->
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body data-theme="dark">
+
+    <button class="mobile-toggle" id="mobileToggle" aria-label="Menyuni ochish" aria-expanded="false">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+    </button>
+
+    <div class="container">
+        <!-- Sidebar (Yon panel) -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <h1 class="sidebar-title">Boshqaruv</h1>
+                <button class="theme-toggle" id="themeToggle">☀️ Oq rejim</button>
+            </div>
+            
+            <nav class="main-nav">
+                <ul class="nav-list" id="categoryList">
+                    <li><a href="#" class="nav-link active" data-category="all">📂 Barchasi</a></li>
+                    <li><a href="#" class="nav-link" data-category="daily">🗓️ Kunlik</a></li>
+                    <li><a href="#" class="nav-link" data-category="reports">📊 Hisobotlar</a></li>
+                    <li><a href="#" class="nav-link" data-category="rnd">🔬 R&D va Sinovlar</a></li>
+                    <li><a href="#" class="nav-link" data-category="disk">💽 Disk</a></li>
+                    <li><a href="#" class="nav-link" data-category="customs">🏛️ Bojxona</a></li>
+                    <li><a href="#" class="nav-link" data-category="web">🌐 Web </a></li>
+                </ul>
+            </nav>
+        </aside>
+
+        <!-- Main content (Asosiy ekran) -->
+        <main class="main-content">
+            <header class="content-header">
+                <h2 class="content-title" id="content-title">Barcha Havolalar</h2>
+                <p class="content-subtitle" id="content-subtitle">Barcha bo'limlardagi mavjud havolalar.</p>
+            </header>
+
+            <div class="links-grid" id="linksGrid">
+                <!-- Kartochkalar bu yerga dinamik yuklanadi -->
+            </div>
+        </main>
+    </div>
+
+    <!-- Havola kartasi uchun andoza (template) -->
+    <template id="linkCardTemplate">
+        <a href="#" target="_blank" class="link-card">
+            <div class="link-icon"></div>
+            <div class="link-content">
+                <h3 class="link-title"></h3>
+                <p class="link-description"></p>
+            </div>
+        </a>
+    </template>
+</body>
+</html>
