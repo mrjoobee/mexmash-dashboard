@@ -5,7 +5,7 @@ const allLinksData = [
     { superCategory: 'daily', icon: '📝', title: 'Topshiriqlar', description: 'Barcha joriy vazifalarni kuzatish', url: 'https://tasks-taminot-4a2c3.web.app' },
     { superCategory: 'daily', icon: '📅', title: 'Planner', description: 'Raxbar uchun kunlik izohlar', url: 'https://docs.google.com/spreadsheets/d/1_GLmNESbbM9y6ptWun3ZFQZcoudf0DVgCOwdBdJHGyg/edit?usp=sharing' },
     { superCategory: 'daily', icon: '🏭', title: 'Mexmash kontaktlari', description: 'Zavod ichki raqamlari va xodimlar', url: '#' },
-    { superCategory: 'daily', icon: '👤', title: 'Kontragentlar', description: 'Tashqi hamkorlar va kompaniyalar', url: 'https://docs.google.com/spreadsheets/d/1hRqsZJ4g7yZrzQi_a_G2JH88ZcyDllvqFC9y5BLeJdU/edit?gid=0#gid=0' },
+    { superCategory: 'daily', icon: '👤', title: 'Kontragentlar kontaktlari', description: 'Tashqi hamkorlar va kompaniyalar', url: 'https://docs.google.com/spreadsheets/d/1hRqsZJ4g7yZrzQi_a_G2JH88ZcyDllvqFC9y5BLeJdU/edit?gid=0#gid=0' },
 
     // Hisobotlar
     { superCategory: 'reports', icon: '📄', title: 'Import shartnomalari reestri', description: 'Barcha import shartnomalari reestri', url: 'https://docs.google.com/spreadsheets/d/1q3o8QBvm8VGyyZYU9XWtlcIbi0VjR2Dh2RrKnOjofUk/edit?usp=sharing' },
