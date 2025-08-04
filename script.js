@@ -33,7 +33,7 @@ const allLinksData = [
     { superCategory: 'customs', icon: '🗄️', title: 'MMK E-Baza', description: 'Muvofiqlik sertifikatlari va standartlar', url: 'https://e-trade.mmk.ru:8000/OA_HTML/AppsLocalLogin.jsp' },
 
     // Web
-    { superCategory: 'web', icon: '🌐', title: 'MoySklad', description: 'Ombor uchun dastur', url: 'https://online.moysklad.ru/app/#homepage' },
+    { superCategory: 'web', icon: '📦', title: 'MoySklad', description: 'Ombor uchun dastur', url: 'https://online.moysklad.ru/app/#homepage' },
     
 ];
 
