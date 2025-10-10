@@ -28,6 +28,10 @@ const allLinksData = [
     // Disk
     { superCategory: 'disk', icon: '📂', title: 'Kontragentlar', description: 'Shartnomalar va boshqa xujjatlar', url: 'https://drive.google.com/drive/folders/1mfrfPGbFQC0TiOavJhSb8E7-5Bkv8e_g?usp=drive_link' },
     { superCategory: 'disk', icon: '📐', title: 'Chizmalar bazasi', description: 'Barcha detallar uchun chizmalar (DWG, DXF)', url: 'https://drive.google.com/drive/folders/1aFXSUBrkTO3c4emo876oSEkXZg3J_kjX?usp=drive_link' },
+    { superCategory: 'disk', icon: '🧪', title: 'Perekursor hisobotlari', description: 'Chorak hisobotlar', url: 'https://drive.google.com/drive/u/0/folders/1racMiNZD7TQbWUkm27riWma3Jc1ac-Yb' },
+    { superCategory: 'disk', icon: '🔥', title: 'Metanol hisobotlari', description: 'Chorak hisobotlar', url: 'https://drive.google.com/drive/u/0/folders/1Z68tfpOzJNW9cXMPOVda4fb5BCcgn3sW' },
+
+
     
     // Bojxona
     { superCategory: 'customs', icon: '🧾', title: 'Import&Export hisobotlari', description: 'Import va Export reestri', url: 'https://drive.google.com/drive/folders/1i0tP5iLvu4dKCV5DaQN70VERyVEoeJpK?usp=sharing' },
