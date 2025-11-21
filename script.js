@@ -9,7 +9,7 @@ const allLinksData = [
     // Hisobotlar
     { superCategory: 'reports', icon: '📄', title: 'Import shartnomalari reestri', description: 'Barcha import shartnomalari reestri', url: 'https://docs.google.com/spreadsheets/d/1q3o8QBvm8VGyyZYU9XWtlcIbi0VjR2Dh2RrKnOjofUk/edit?usp=sharing' },
     { superCategory: 'reports', icon: '🛒', title: 'Import buyurtmalar', description: 'Import buyurtmalar holati', url: 'https://docs.google.com/spreadsheets/d/1iglrs-7XUKSuithww3bTIUJ8MSI5dfsDrYOp-Bg9WRY/edit?usp=sharing' },
-    { superCategory: 'reports', icon: '✈️', title: 'Import buyurtmalar(DEMO)', description: 'Import buyurtmalar holati', url: 'https://import-orders-v2.web.app' },
+    { superCategory: 'reports', icon: '✈️', title: 'Import buyurtmalar(New)', description: 'Import buyurtmalar holati', url: 'https://import-orders-v2.web.app' },
     { superCategory: 'reports', icon: '🧭', title: 'Importni rejalashtirish', description: 'Kelgusi oylar uchun xaridlar rejasi', url: 'https://drive.google.com/drive/folders/1qnwZa3nWC4Dt762y7PE-e-c0VuvJaLSm?usp=sharing' },
     { superCategory: 'reports', icon: '💸', title: 'Import to\'lovlari', description: 'Xorijiy hamkorlarga to\'lovlar', url: 'https://docs.google.com/spreadsheets/d/1qwQKJB3AGgXseTnCbygzpNdE-wr0fhrTE1N6aHG5zeE/edit?usp=sharing' },
     { superCategory: 'reports', icon: '💰', title: 'Maxalliy to\'lovlar', description: 'Mahalliy bozor uchun to\'lovlar', url: 'https://docs.google.com/spreadsheets/d/1poNMdyaw-zn2PBn00Pa6RYXdLz5rmKTpx2H-Av9bKAo/edit?gid=1431601296#gid=1431601296' },
