@@ -15,12 +15,10 @@ const allLinksData = [
     { superCategory: 'reports', icon: '💰', title: 'Maxalliy to\'lovlar', description: 'Mahalliy bozor uchun to\'lovlar', url: 'https://docs.google.com/spreadsheets/d/1poNMdyaw-zn2PBn00Pa6RYXdLz5rmKTpx2H-Av9bKAo/edit?gid=1431601296#gid=1431601296' },
     { superCategory: 'reports', icon: '🚚', title: 'Yo\'ldagi yuklar', description: 'Yuklarning holati', url: 'https://mexmash-logistika.web.app' },
     { superCategory: 'reports', icon: '📦', title: 'Ombor qoldiqlari', description: 'Ombordagi xomashyo va mahsulotlar', url: 'https://docs.google.com/spreadsheets/d/1PMG99u4OoDlpL3MAoPV4cx3iuXf351bIfGTqVn3TcTo/edit?usp=sharing' },
-    { superCategory: 'reports', icon: '📈', title: 'Narxlar analitikasi', description: 'Xomashyo va komponentlar narxlari', url: 'https://docs.google.com/spreadsheets/d/1xVMgLEcgV5QSyq42nSfpczco41ISSMZcbCZ6ZJ52QlM/edit?usp=sharing' },
+    
     
     // R&D va Sinovlar
     { superCategory: 'rnd', icon: '💡', title: 'R&D Loyihalar', description: 'Yangi mahsulotlar bo\'yicha loyihalar', url: 'https://drive.google.com/drive/folders/14bijGJ3jAtEFXGtX3ZmNUXJkDWfC6gf4?usp=sharing' },
-    { superCategory: 'rnd', icon: '📥', title: 'Takliflar', description: 'Kontragentlardan tovar bo\'yicha olingan takliflar', url: 'https://drive.google.com/drive/folders/1zX-EPoGc7mOJWUYG-ex-gmoWXUaErzjK?usp=sharing' },
-    { superCategory: 'rnd', icon: '📋', title: 'Solishtirma listlar', description: 'Tovar yuzasidan kontragentlardan jamlangan solishtirmalar', url: 'https://drive.google.com/drive/folders/1YkGAtn3QQiO2GdPrWOj1jedjUBVUZ0-C?usp=drive_link' },
     { superCategory: 'rnd', icon: '⚠️', title: 'Muammolar', description: 'Yechimini kutayotgan texnik muammolar', url: 'https://drive.google.com/drive/folders/1FKxbUvzyvx1O4JOM8QfANyrgNBXV28xX?usp=drive_link' },
     { superCategory: 'rnd', icon: '🧪', title: 'Sinov va Tahlillar', description: 'Sinovdan o\'tgan mahsulotlar hisoboti', url: 'https://drive.google.com/drive/folders/1uT5xc4o99c9Q5zqWpu_B74sQ9tYcwyMn?usp=drive_link' },
 
