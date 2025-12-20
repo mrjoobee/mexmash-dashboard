@@ -19,8 +19,8 @@ const allLinksData = [
     
     // R&D va Sinovlar
     // { superCategory: 'rnd', icon: '💡', title: 'R&D Loyihalar', description: 'Yangi mahsulotlar bo\'yicha loyihalar', url: 'https://drive.google.com/drive/folders/14bijGJ3jAtEFXGtX3ZmNUXJkDWfC6gf4?usp=sharing' },
-    { superCategory: 'rnd', icon: '⚠️', title: 'Muammolar', description: 'Yechimini kutayotgan texnik muammolar', url: 'https://drive.google.com/drive/folders/1FKxbUvzyvx1O4JOM8QfANyrgNBXV28xX?usp=drive_link' },
-    { superCategory: 'rnd', icon: '🧪', title: 'Sinov va Tahlillar', description: 'Sinovdan o\'tgan mahsulotlar hisoboti', url: 'https://drive.google.com/drive/folders/1uT5xc4o99c9Q5zqWpu_B74sQ9tYcwyMn?usp=drive_link' },
+    // { superCategory: 'rnd', icon: '⚠️', title: 'Muammolar', description: 'Yechimini kutayotgan texnik muammolar', url: 'https://drive.google.com/drive/folders/1FKxbUvzyvx1O4JOM8QfANyrgNBXV28xX?usp=drive_link' },
+    // { superCategory: 'rnd', icon: '🧪', title: 'Sinov va Tahlillar', description: 'Sinovdan o\'tgan mahsulotlar hisoboti', url: 'https://drive.google.com/drive/folders/1uT5xc4o99c9Q5zqWpu_B74sQ9tYcwyMn?usp=drive_link' },
 
     // Disk
     { superCategory: 'disk', icon: '📂', title: 'Kontragentlar', description: 'Shartnomalar va boshqa xujjatlar', url: 'https://drive.google.com/drive/folders/1mfrfPGbFQC0TiOavJhSb8E7-5Bkv8e_g?usp=drive_link' },
