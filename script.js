@@ -3,7 +3,7 @@
 const allLinksData = [
     // Kunlik
     { superCategory: 'daily', icon: '📝', title: 'Process', description: 'Jarayonlarni kuzatish', url: 'https://tasks-taminot-4a2c3.web.app' },
-    { superCategory: 'daily', icon: '📅', title: 'Planner', description: 'Raxbar uchun kunlik izohlar', url: 'https://docs.google.com/spreadsheets/d/1_GLmNESbbM9y6ptWun3ZFQZcoudf0DVgCOwdBdJHGyg/edit?usp=sharing' },
+    // { superCategory: 'daily', icon: '📅', title: 'Planner', description: 'Raxbar uchun kunlik izohlar', url: 'https://docs.google.com/spreadsheets/d/1_GLmNESbbM9y6ptWun3ZFQZcoudf0DVgCOwdBdJHGyg/edit?usp=sharing' },
     { superCategory: 'daily', icon: '👤', title: 'Kontragentlar kontaktlari', description: 'Tashqi hamkorlar va kompaniyalar', url: 'https://zavod-kontragentlar.web.app' },
 
     // Hisobotlar
