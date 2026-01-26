@@ -23,7 +23,7 @@ const allLinksData = [
     // { superCategory: 'rnd', icon: '🧪', title: 'Sinov va Tahlillar', description: 'Sinovdan o\'tgan mahsulotlar hisoboti', url: 'https://drive.google.com/drive/folders/1uT5xc4o99c9Q5zqWpu_B74sQ9tYcwyMn?usp=drive_link' },
 
     // Disk
-    { superCategory: 'disk', icon: '📂', title: 'Kontragentlar', description: 'Shartnomalar va boshqa xujjatlar', url: 'https://drive.google.com/drive/folders/1mfrfPGbFQC0TiOavJhSb8E7-5Bkv8e_g?usp=drive_link' },
+    { superCategory: 'disk', icon: '📂', title: 'Kontragentlar', description: 'Shartnomalar va boshqa xujjatlar (ESKI ARXIV)', url: 'https://drive.google.com/drive/folders/1mfrfPGbFQC0TiOavJhSb8E7-5Bkv8e_g?usp=drive_link' },
     { superCategory: 'disk', icon: '📐', title: 'Chizmalar bazasi', description: 'Barcha detallar uchun chizmalar (DWG, DXF)', url: 'https://drive.google.com/drive/folders/1aFXSUBrkTO3c4emo876oSEkXZg3J_kjX?usp=drive_link' },
     { superCategory: 'disk', icon: '🧪', title: 'Perekursor hisobotlari', description: 'Chorak hisobotlar', url: 'https://drive.google.com/drive/u/0/folders/1racMiNZD7TQbWUkm27riWma3Jc1ac-Yb' },
     { superCategory: 'disk', icon: '🔥', title: 'Metanol hisobotlari', description: 'Chorak hisobotlar', url: 'https://drive.google.com/drive/u/0/folders/1Z68tfpOzJNW9cXMPOVda4fb5BCcgn3sW' },
