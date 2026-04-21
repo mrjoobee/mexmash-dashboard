@@ -15,7 +15,7 @@ const allLinksData = [
     { superCategory: 'reports', icon: '💸', title: "Import to'lovlar yillik rejasi", description: 'Xorijiy hamkorlarga to\'lovlar', url: 'https://drive.google.com/drive/folders/1kDjWCD4VPns-JveKLGT2Vrq8D6jDgkVp?usp=sharing' },
     { superCategory: 'reports', icon: '💰', title: 'Maxalliy to\'lovlar', description: 'Mahalliy bozor uchun to\'lovlar', url: 'https://docs.google.com/spreadsheets/d/1poNMdyaw-zn2PBn00Pa6RYXdLz5rmKTpx2H-Av9bKAo/edit?gid=1431601296#gid=1431601296' },
     { superCategory: 'reports', icon: '🚚', title: 'Yo\'ldagi yuklar', description: 'Yuklarning holati', url: 'https://mexmash-logistika.web.app' },
-    { superCategory: 'reports', icon: '🗓', title: 'Ombor qoldiqlari', description: 'Ombordagi xomashyo va mahsulotlar', url: 'https://docs.google.com/spreadsheets/d/160XiAJxiqTiS2M1Ti480VM4nM2HkFqWZvOBaAREoN7g/edit?gid=608557217#gid=608557217' },
+    { superCategory: 'reports', icon: '🗓', title: 'Ombor qoldiqlari', description: 'Qoldiq va xaridlarni rejalashtirish', url: 'https://docs.google.com/spreadsheets/d/160XiAJxiqTiS2M1Ti480VM4nM2HkFqWZvOBaAREoN7g/edit?gid=608557217#gid=608557217' },
     { superCategory: 'reports', icon: '📦', title: 'Ombor qoldiqlari', description: 'Ombordagi xomashyo va mahsulotlar', url: 'https://docs.google.com/spreadsheets/d/1PMG99u4OoDlpL3MAoPV4cx3iuXf351bIfGTqVn3TcTo/edit?usp=sharing' },
     
     
