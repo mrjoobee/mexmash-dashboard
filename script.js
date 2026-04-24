@@ -6,6 +6,7 @@ const allLinksData = [
     { superCategory: 'reports', icon: '🛒', title: 'Import buyurtmalar', description: 'Import buyurtmalar holati', url: 'https://import-orders-v2.web.app' },
     // { superCategory: 'daily', icon: '📅', title: 'Planner', description: 'Raxbar uchun kunlik izohlar', url: 'https://docs.google.com/spreadsheets/d/1_GLmNESbbM9y6ptWun3ZFQZcoudf0DVgCOwdBdJHGyg/edit?usp=sharing' },
     { superCategory: 'daily', icon: '👤', title: 'Kontragentlar kontaktlari', description: 'Tashqi hamkorlar va kompaniyalar', url: 'https://zavod-kontragentlar.web.app' },
+    { superCategory: 'daily', icon: '💷', title: "Oylik to'lov rejalari", description: "Oylik to'lov rejalari", url: 'https://drive.google.com/drive/u/0/folders/1Dtmtas1Va_t1P0YI6VI6ql4PSfQAi3ma' },
 
     // Hisobotlar
     { superCategory: 'reports', icon: '📄', title: 'Import shartnomalari reestri', description: 'Barcha import shartnomalari reestri', url: 'https://docs.google.com/spreadsheets/d/1q3o8QBvm8VGyyZYU9XWtlcIbi0VjR2Dh2RrKnOjofUk/edit?usp=sharing' },
